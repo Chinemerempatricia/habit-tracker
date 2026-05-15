@@ -1,0 +1,56 @@
+{
+    "habits": [
+      {
+        "id": 1,
+        "name": "Study Python",
+        "category": "Learning",
+        "frequency": "daily",
+        "created_at": "2026-05-14",
+        "logs": [
+            {
+                "date": "2016-05-14",
+                "completed": true
+            },
+            {
+                "date": "2026-05-13",
+                "completed": true
+            },
+            {
+                "date": "2026-05-12",
+                "completed": false
+            }
+        ]
+
+    },
+    {
+         "id": 2,
+         "name": "Drink Water",
+         "category": "health",
+         "frequency": "daily",
+         "created_at": "2026-05-10",
+         "logs": [
+             {
+                "date": "2026-05-14",
+                "completed": true
+            },
+            {
+                "date": "2016-05-13",
+                "completed": true
+            }
+         ]
+         },
+         {
+            "id": 3,
+            "name": "Exercise",
+            "category": "fitness",
+            "frequency": "weekly",
+            "created_at": "2026-05-01",
+            "logs": [
+                {
+                    "date": "2026-05-12",
+                    "completed": true
+                }
+            ]
+         }
+    ]
+}
